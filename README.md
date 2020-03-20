@@ -1,6 +1,6 @@
 # aws-iot
 
-This repository contains code on how to connect IoT Devices to the AWS IoT Core, based on the (aws-iot-device-sdk-python-v2)[https://github.com/aws/aws-iot-device-sdk-python-v2].
+This repository contains code on how to connect IoT Devices to the AWS IoT Core, based on the [aws-iot-device-sdk-python-v2](https://github.com/aws/aws-iot-device-sdk-python-v2).
 
 ## Setup Instructions
 
