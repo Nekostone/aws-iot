@@ -1,0 +1,15 @@
+{
+	"Date": "DD/MM/YYYY HH:MM:SS",
+	"HomeID": 12345,
+	"Location": "sensorLocation",
+	"Likely00": Likelihood Number,
+	"Likely01": Likelihood Number,
+	"Likely02": Likelihood Number,
+	"Likely03": Likelihood Number,
+	"Likely04": Likelihood Number,
+	"Likely05": Likelihood Number,
+	"Likely06": Likelihood Number,
+	"Likely07": Likelihood Number
+}
+
+	
