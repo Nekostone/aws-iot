@@ -1,2 +1,2 @@
 awscrt==0.5.11
-awsiotsdk==1.0.5
+awsiotsdk==1.7.0
